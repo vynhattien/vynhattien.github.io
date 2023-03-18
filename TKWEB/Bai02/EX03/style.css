@@ -1,0 +1,26 @@
+body{
+
+   font-size: 20px;
+   background-color: rgb(25, 133, 222);
+}
+
+
+/* Header **/
+header{
+    
+border-radius: 21px;
+padding-left: 11px;
+background-color: rgb(50, 232, 232);
+border-bottom: 3px solid red; 
+ 
+}
+
+footer{
+
+  background-color: rgb(215, 116, 169);
+  border-style: solid;
+  border-width: 3px;
+  text-align: center;
+  padding-top: 30;
+  padding-bottom: 25px;
+}
