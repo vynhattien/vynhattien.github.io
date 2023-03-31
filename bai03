@@ -1,0 +1,30 @@
+
+body{
+  background-color:#519D90;
+  
+}
+
+
+/* Header **/
+header{
+
+ color:cornsilk;
+ background-color:#82363A;
+ border-bottom: 3px solid#73AD21
+ font-size:
+ 
+}
+
+footer{
+
+    
+                  position: relative;
+                  width: 1600px;
+                  height: 50px;
+                  border: 1px solid #E55151;
+                  text-align: center;
+                  background-color:#E55151
+   
+
+   
+   }
