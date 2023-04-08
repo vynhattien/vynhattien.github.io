@@ -1,0 +1,87 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(/img/5_VN-EN-SCA-Homepage-Banner-Section_PC.jpg) no-repeat;
+    background-size: auto;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: rgb(22, 121, 250);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    color: #111;
+}
+
+.active {
+    color: black;
+}
+
+/* end head */
+
+
+#ghichu {
+    margin-top: 250px;
+    margin-left: 150px;
+    padding: 10px;
+    width: 400px;
+    height: 200px;
+}
+
+#ghichu h2{
+    padding-bottom: 10px;
+    color: rgb(22, 121, 250);
+}
+
+#ghichu input {
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 15px 40px;
+    border: 2px solid rgb(22, 121, 250);
+    color: rgb(22, 121, 250);
+    font-size: 15px;
+    border-radius: 25px;
+}
+
+#ghichu input:hover{
+    color: white;
+    background-color: rgb(22, 121, 250);
+}
+
+/* section */
+
+
+#hopto-thongtin .hopnho-thongtin{
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 10%;
+    
+    width: 500px;
+}
+
+.hopnho-thongtin{
+    display: inline-block;
+    backdrop-filter: blur(20px);
+}
+
+.hopnho-thongtin p{
+    padding: 5px;
+}
